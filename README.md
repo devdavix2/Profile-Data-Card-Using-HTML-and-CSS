@@ -18,8 +18,8 @@ Feel free to utilize this project as a reference for creating your own personali
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ---
 
-[Live Demo](https://your-demo-link.com) 
+[Live Demo](https://profile-data-card-using-html-and-7j2nq9s9v-devdavixs-projects.vercel.app/) 
