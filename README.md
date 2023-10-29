@@ -16,9 +16,6 @@ The profile data card serves as a visually appealing way to present essential in
 
 Feel free to utilize this project as a reference for creating your own personalized profile data card or as a learning resource to understand the basics of HTML and CSS integration. Clone the repository and explore the code to understand how the profile data card is structured and styled.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ---
 
